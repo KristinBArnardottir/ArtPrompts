@@ -1,0 +1,25 @@
+body {
+    margin: 150px;
+    background: papayawhip;
+    text-align: center;
+}
+
+.button {
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 40px;
+    margin: 10px 8px;
+    cursor: pointer;
+    background-color: #4CAF50;
+  }
+
+.myDiv {
+    margin: 20px;
+    background-color: lightblue;    
+    text-align: center;
+    font-size: 80px;
+  }
