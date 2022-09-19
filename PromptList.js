@@ -9,7 +9,6 @@ randomStrings = [
     "Fan",
     "Watch",
     "Pressure",
-    "Pick",
     "Sour",
     "Stuck",
     "Roof",
