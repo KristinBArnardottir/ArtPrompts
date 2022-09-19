@@ -2,7 +2,7 @@ body {
     margin: 150px;
     background: papayawhip;
     text-align: center;
-}
+  }
 
 .button {
     border: none;
@@ -23,3 +23,33 @@ body {
     text-align: center;
     font-size: 80px;
   }
+
+
+nav {
+  float: left;
+  width: 20%;
+  background: peachpuff;
+  padding: 20px;
+  height: 100%;
+}
+
+nav ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+main {
+  float: left;
+  width: 70%;
+  background: papayawhip;
+  padding: 20px;  
+}
+
+.row {
+  display: flex;
+}
+
+.column {
+  flex: 50%;
+  padding: 5px;
+}
